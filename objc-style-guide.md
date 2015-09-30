@@ -1,5 +1,5 @@
 ---
-layout: fullpage
+layout: longform-document
 title: Objective-C Style Guide
 category: style-guides
 ---
